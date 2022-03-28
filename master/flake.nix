@@ -11,7 +11,6 @@
   inputs.src-gemini-master.ref   = "refs/heads/master";
   inputs.src-gemini-master.owner = "benob";
   inputs.src-gemini-master.repo  = "gemini";
-  inputs.src-gemini-master.dir   = "";
   inputs.src-gemini-master.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
